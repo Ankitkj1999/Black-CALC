@@ -8,7 +8,8 @@
         PhoneGap Team
     </author>
     <content src="index.html" />
-     <icon src="icon.png" />
-        <icon src="icon.png" >
+     
     <access origin="*" />
+    <icon src="icon.png" />
+        <icon src="icon.png" >
 </widget>
