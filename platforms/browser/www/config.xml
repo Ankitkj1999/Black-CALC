@@ -10,6 +10,7 @@
     <content src="index.html" />
     
     <access origin="*" />
-    <icon src="icon.png" />
-        <icon src="icon.png" >
+     <platform name="android">
+  <icon src="icon.png"  />
+</platform>
 </widget>
