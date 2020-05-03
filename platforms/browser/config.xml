@@ -20,6 +20,6 @@
   <icon src="icon.png"  />
 </platform>
 <author>Adobe Systems Canada Inc</author>
-<preference name="windows-identity-name" value="PhonegapBuild.PGBDeveloper" />
+<preference name="ankit-kumar" value="PhonegapBuild.PGBDeveloper" />
 
 </widget>
